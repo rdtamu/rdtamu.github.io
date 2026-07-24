@@ -28,7 +28,7 @@ I am Rashmi Dangol, a research assistant at Texas A&M University, where I work o
 ### Map of my University
 <embed type="text/html" src="/img/tamu_map.html" height="650" width="850">
 
-### Interactive graph showing Average Precipitation in Austin from 2007-2026
+### Interactive graph showing Average Precipitation in Austin,TX from 2007-2026
 <embed type="text/html" src="/img/Austin_plot.html" height="650" width="850">
 
 ## Projects
