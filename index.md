@@ -26,10 +26,10 @@ I am Rashmi Dangol, a research assistant at Texas A&M University, where I work o
 - Led a team of six members to conduct baseline and end-line surveys using Kobo_Toolbox for the Beneficiary-Based Survey of the National Seed and Fertilizer Project (NSAF) to understand the effectiveness of ICT tools in agriculture in Nepal
 
 ### Map of my University
-<embed type="text/html" src="/assets/tamu_map.html" height="650" width="850">
+<embed type="text/html" src="/img/tamu_map.html" height="650" width="850">
 
 ### Interactive graph showing Average Precipitation in Austin from 2007-2026
-<embed type="text/html" src="/assets/Austin_plot.html" height="650" width="850">
+<embed type="text/html" src="/img/Austin_plot.html" height="650" width="850">
 
 ## Projects
 ### Weed Recognition with Deep Learning Approaches
@@ -40,12 +40,12 @@ Developed and evaluated a deep learning-based weed identification system for rec
 - YOLOv11 (You Only Look Once, version 11)
 - RT-DETR (Real-Time Detection Transformer)
 
-![Weed Detection and Segmentation Results using YOLOv11-seg](/assets/weed_detection.png)
+![Weed Detection and Segmentation Results using YOLOv11-seg](/img/weed_detection.png)
 
 ### Remote Sensing-based Classification in Pastureland 
 Monitored the spatial distribution of weeds and implemented classification models for weed mapping
 
-![Workflow to create orthomosaic](/assets/workflow.png)
+![Workflow to create orthomosaic](/img/workflow.png)
 Vegetative Indices such as Excess Green Index (ExG) and Normalized Green-Red Difference Index (NGRDI) were calculated, and a Support Vector Machine model was chosen for classification in ArcGIS Pro.
 
 ### Excess Green Index (EGI) Map
@@ -57,7 +57,7 @@ Vegetative Indices such as Excess Green Index (ExG) and Normalized Green-Red Dif
 
 
 ### Classification Map- Support Vector Machine (SVM)
-![Classification map using Support Vector Machine (SVM)](/assets/SVM.png)
+![Classification map using Support Vector Machine (SVM)](/img/SVM.png)
 
 ### Flood Analysis through Soil and Satellite Data in Kerr County, TX
 Analyzed flood dynamics by integrating satellite data, land cover, and soil moisture data.
