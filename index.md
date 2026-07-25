@@ -27,10 +27,12 @@ I am Rashmi Dangol, a research assistant at Texas A&M University, where I work o
 **Digital Enumerator/Surveyor @ International Maize and Wheat Improvement Center (CIMMYT)**
 - Led a team of six members to conduct baseline and end-line surveys using Kobo_Toolbox for the Beneficiary-Based Survey of the National Seed and Fertilizer Project (NSAF) to understand the effectiveness of ICT tools in agriculture in Nepal
 
-### Map of my University
-<embed type="text/html" src="/img/tamu_map.html" height="650" width="850"> 
+### Map of Texas A&M University, College Station
+(<embed type="text/html" src="/img/tamu_map.html" height="650" width="850">)
+
 ### Interactive graph showing Average Precipitation in Austin, TX from 2007-2026
-<embed type="text/html" src="/img/Austin_plot.html" height="650" width="850"> 
+(<embed type="text/html" src="/img/Austin_plot.html" height="650" width="850">)
+
 ## Projects
 ### Weed Recognition with Deep Learning Approaches
 Developed and evaluated a deep learning-based weed identification system for recognizing six common and invasive weed species in pastureland in digital images.
@@ -67,7 +69,7 @@ The study used multiple datasets from TexMesonet, including time-series measurem
 
 ### Land Cover Classes in Kerr County
 <p align="center">
-  <img src="assets/LandCover_Kerr.jpg" width="750"/>
+  <img src="img/LandCover_Kerr.jpg" width="750"/>
   <br>
   <em>Land Cover Distribution</em>
 
