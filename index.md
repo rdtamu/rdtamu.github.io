@@ -28,13 +28,13 @@ I am Rashmi Dangol, a research assistant at Texas A&M University, where I work o
 - Led a team of six members to conduct baseline and end-line surveys using Kobo_Toolbox for the Beneficiary-Based Survey of the National Seed and Fertilizer Project (NSAF) to understand the effectiveness of ICT tools in agriculture in Nepal
 
 ### Map of Texas A&M University, College Station
-<embed type="text/html" src="/img/tamu_map.html" height="650" width="850">
+<embed type="text/html" src="/img/tamu_map.html" height="650" width="850" style="display: block; margin-bottom: 0px;">
 
-### Interactive graph showing Average Precipitation in Austin, TX from 2007-2026
-<div style="margin-top: -30px;">
- <embed type="text/html" src="/img/Austin_plot.html" height="650" width="850">
-</div>
-## Projects
+<h3 style="margin-top: 10px; margin-bottom: 10px;">Interactive graph showing average precipitation in Austin, TX from 2007-2026</h3>
+
+<embed type="text/html" src="/img/Austin_plot.html" height="650" width="850" style="display: block; margin-top: 0px; margin-bottom: 0px;">
+<h2 style="margin-top: 15px; margin-bottom: 10px;">Projects</h2>
+
 ### Weed Recognition with Deep Learning Approaches
 Developed and evaluated a deep learning-based weed identification system for recognizing six common and invasive weed species in pastureland in digital images.
 ### Technical Approach
