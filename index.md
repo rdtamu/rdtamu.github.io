@@ -1,5 +1,5 @@
 # Rashmi Dangol
-I am Rashmi Dangol, a research assistant at Texas A&M University, where I work on sensor-based detection of weed species in rangelands. My projects focus on remote sensing, including UAV and satellite data, as well as the development of computer vision and machine learning approaches, contributing to sustainable rangeland management. I am skilled in  acquiring, processing, analyzing, and visualizing spatial data to provide meaningful insights that help industries make informed and impactful decisions.
+I am Rashmi Dangol, a research assistant at Texas A&M University, where I work on sensor-based detection of weed species in rangelands. My projects focus on remote sensing, including UAV and satellite data, as well as the development of computer vision and machine learning approaches, contributing to sustainable rangeland management. I am skilled in  acquiring, processing, analyzing, and visualizing spatial data to provide meaningful insights that help industries make informed and impactful decisions
 
 #### Technical Skills: Python, ArcGIS Pro, Pix4DMapper, SAS, Microsoft Office
 
