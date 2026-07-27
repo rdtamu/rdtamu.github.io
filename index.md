@@ -29,14 +29,10 @@ I am Rashmi Dangol, a research assistant at Texas A&M University, where I work o
 
 ### Map of Texas A&M University, College Station
 <embed type="text/html" src="/img/tamu_map.html" height="650" width="850" style="display: block; margin-bottom: 0px;">
-
 <h3 style="margin-top: 10px; margin-bottom: 10px;">Interactive graph showing average precipitation in Austin, TX from 2007-2026</h3>
-
 <embed type="text/html" src="/img/Austin_plot.html" height="650" width="850" style="display: block; margin-top: 0px; margin-bottom: 0px;">
-
 <h3 style="margin-top: 10px; margin-bottom: 10px;">Esri Imagery showing Boundary of Tubarjal valley</h3>
 <embed type="text/html" src="/img/interactive_map.html" height="650" width="850">
-
 <h3 style="margin-top: 10px; margin-bottom: 10px;">Plotting NDVI Changes in Tubarjal Valley Saudi Arabia</h3>
 <embed type="text/html" src="/img/ndvi_difference_map.html" height="650" width="850">
 
